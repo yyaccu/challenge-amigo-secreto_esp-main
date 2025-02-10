@@ -77,3 +77,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 ## Autor
 
 Este proyecto fue creado por Yanina Yaccuzzi.
+
+<p align="center">
+  <img src="https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png" alt="Interfaz de la aplicación" />
+</p>
+
