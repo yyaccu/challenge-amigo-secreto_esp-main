@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="assets/amigo_secreto.avif" alt="Interfaz de la aplicación" />
+</p>
 
 
 # Amigo Secreto
