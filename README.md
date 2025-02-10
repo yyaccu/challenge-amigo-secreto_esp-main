@@ -1,4 +1,6 @@
 
+
+
 # Amigo Secreto
 
 ## Descripción
@@ -71,4 +73,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 ## Autor
 
-Este proyecto fue creado por [Tu Nombre].
+Este proyecto fue creado por Yanina Yaccuzzi.
